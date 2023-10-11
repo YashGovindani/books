@@ -1,0 +1,12 @@
+[submodule "content-service"]
+	path = content-service
+	url = git@github.com:YashGovindani/content-service.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:YashGovindani/user-service.git
+[submodule "user-interaction-service"]
+	path = user-interaction-service
+	url = git@github.com:YashGovindani/user-interaction-service.git
+[submodule "common"]
+	path = common
+	url = git@github.com:YashGovindani/common.git
